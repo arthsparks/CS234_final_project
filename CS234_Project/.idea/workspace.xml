@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3194482-06fe-47d4-ae77-07011fea47f8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CS234_Project$baseline1.coverage" NAME="baseline1 Coverage Results" MODIFIED="1551937878188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2023291540">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="3" />
+          <entry key="py" value="17" />
+          <entry key="temp" value="1" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="3" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="237" />
+          <entry key="py" value="6873" />
+          <entry key="temp" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="7116" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="377348821">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2035414589">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="4" />
+          <entry key="py" value="5" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1214" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1214" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.54146343">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/baseline.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/contextual_bandits.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="768">
+                  <caret line="151" column="21" lean-forward="true" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#0#36#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/linUCB (Sheng Ji 的冲突副本 2019-03-19).py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="12">
+                  <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/linUCB.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="783">
+                  <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>seed</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/baseline1.py" />
+        <option value="$PROJECT_DIR$/temp" />
+        <option value="$PROJECT_DIR$/generate_txt.py" />
+        <option value="$PROJECT_DIR$/baseline.py" />
+        <option value="$PROJECT_DIR$/linUCB (Sheng Ji 的冲突副本 2019-03-19).py" />
+        <option value="$PROJECT_DIR$/contextual_bandits.py" />
+        <option value="$PROJECT_DIR$/linUCB.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CS234_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS234_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS234_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS234_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS234_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS234_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.contextual_bandits">
+    <configuration name="baseline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS234_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baseline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contextual_bandits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS234_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contextual_bandits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS234_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linUCB (Sheng Ji 的冲突副本 2019-03-19)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS234_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linUCB (Sheng Ji 的冲突副本 2019-03-19).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linUCB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS234_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linUCB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.baseline" />
+      <item itemvalue="Python.generate_txt" />
+      <item itemvalue="Python.contextual_bandits" />
+      <item itemvalue="Python.linUCB" />
+      <item itemvalue="Python.linUCB (Sheng Ji 的冲突副本 2019-03-19)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.contextual_bandits" />
+        <item itemvalue="Python.linUCB" />
+        <item itemvalue="Python.linUCB (Sheng Ji 的冲突副本 2019-03-19)" />
+        <item itemvalue="Python.baseline" />
+        <item itemvalue="Python.generate_txt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3194482-06fe-47d4-ae77-07011fea47f8" name="Default Changelist" comment="" />
+      <created>1551933235614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551933235614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13502109" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0032085562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37540108" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/baseline1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linUCB.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linUCB (Sheng Ji 的冲突副本 2019-03-19).py</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/contextual_bandits.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string># lwd=1
+# cmap = plt.get_cmap('tab20')
+# colors = plt.cm.tab20(np.linspace(0, 1, 20))
+# 
+# plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+# plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+# plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+# plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+# plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+# plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+# 
+# plt.xticks(np.arange(0, 120, 20), ('0', '1000', '2000', '3000', '4000', '5000'))
+# plt.xlabel(&quot;Number of Patients&quot;)
+# plt.ylabel(&quot;Correctness&quot;)
+
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from generate_txt import generate_data
+
+num_trials = 1
+with_risk_sensitivity = False
+
+
+def LinUCB(data, num_labels, shuffle, alpha):
+    shuffled_data = data.sample(frac=1) if shuffle else data
+    true_label, features = shuffled_data.iloc[:, 0], shuffled_data.iloc[:, 1:]
+    features['augmentation'] = 1
+    num_points, num_feature = features.shape
+    A, b = {}, {}
+    actions = []
+    rewards = []
+    p = np.zeros(num_labels)
+    for label in range(num_labels):
+        A[label] = np.identity(num_feature)
+        b[label] = np.zeros(num_feature)
+    for index, patient in features.iterrows():
+        patient = patient.values
+        patient = patient / np.linalg.norm(patient)
+        for label in range(num_labels):
+            A_inv = np.linalg.inv(A[label])
+            theta = A_inv @ b[label]
+            p[label] = theta @ patient + alpha * np.sqrt(patient @ A_inv @ patient)
+            reward = compute_reward(label, true_label[index], with_risk_sensitivity)
+            A[label] += np.outer(patient, patient)
+            b[label] += reward * patient
+            rewards.append(reward)
+        prediction = np.random.choice(np.flatnonzero(p == p.max()))
+        actions.append(prediction)
+    print(&quot;LinUCB average return:&quot;, np.sum(actions == true_label.values) / num_points)
+    print(&quot;# of bad actions:&quot;, calc_bad_actions(actions, true_label.values))
+    return rewards
+
+
+def compute_reward(prediction, true_label, with_risk=False):
+    if with_risk:
+        return compute_reward_with_risk(prediction, true_label)
+    else:
+        return 0 if prediction == true_label else -1
+
+
+def compute_reward_with_risk(prediction, true_label):
+    if abs(prediction - true_label) == 1:
+        return -1
+    if abs(prediction - true_label) == 2:
+        return -20
+    else:
+        return 0
+
+
+def calc_overall_rewards(actions, true_labels):
+    assert(len(actions) == true_labels.size)
+    overall_rewards = 0.
+    for i in range(len(actions)):
+        overall_rewards += compute_reward(actions[i], true_labels[i])
+    return overall_rewards
+
+
+def calc_bad_actions(actions, true_labels):
+    assert(len(actions) == true_labels.size)
+    num_bad_actions = 0
+    for i in range(len(actions)):
+        if abs(actions[i] - true_labels[i]) == 2:
+            num_bad_actions += 1
+    return num_bad_actions
+
+
+
+raw_data, num_labels = generate_data(save_txt=False, num_labels=3)
+aaa = (LinUCB(raw_data, num_labels, shuffle=True, alpha=0.))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string># lwd=1
+# cmap = plt.get_cmap('tab20')
+# colors = plt.cm.tab20(np.linspace(0, 1, 20))
+# 
+# plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+# plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+# plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+# plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+# plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+# plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+# 
+# plt.xticks(np.arange(0, 120, 20), ('0', '1000', '2000', '3000', '4000', '5000'))
+# plt.xlabel(&quot;Number of Patients&quot;)
+# plt.ylabel(&quot;Correctness&quot;)
+
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from generate_txt import generate_data
+
+num_trials = 3
+with_risk_sensitivity = False
+
+
+def LinUCB(data, num_labels, shuffle, alpha):
+    shuffled_data = data.sample(frac=1) if shuffle else data
+    true_label, features = shuffled_data.iloc[:, 0], shuffled_data.iloc[:, 1:]
+    features['augmentation'] = 1
+    num_points, num_feature = features.shape
+    A, b = {}, {}
+    actions = []
+    rewards = []
+    p = np.zeros(num_labels)
+    for label in range(num_labels):
+        A[label] = np.identity(num_feature)
+        b[label] = np.zeros(num_feature)
+    for index, patient in features.iterrows():
+        patient = patient.values
+        patient = patient / np.linalg.norm(patient)
+        for label in range(num_labels):
+            A_inv = np.linalg.inv(A[label])
+            theta = A_inv @ b[label]
+            p[label] = theta @ patient + alpha * np.sqrt(patient @ A_inv @ patient)
+            reward = compute_reward(label, true_label[index], with_risk_sensitivity)
+            A[label] += np.outer(patient, patient)
+            b[label] += reward * patient
+            rewards.append(reward)
+        prediction = np.random.choice(np.flatnonzero(p == p.max()))
+        actions.append(prediction)
+    print(&quot;LinUCB average return:&quot;, np.sum(actions == true_label.values) / num_points)
+    print(&quot;# of bad actions:&quot;, calc_bad_actions(actions, true_label.values))
+    return rewards
+
+
+def compute_reward(prediction, true_label, with_risk=False):
+    if with_risk:
+        return compute_reward_with_risk(prediction, true_label)
+    else:
+        return 0 if prediction == true_label else -1
+
+
+def compute_reward_with_risk(prediction, true_label):
+    if abs(prediction - true_label) == 1:
+        return -1
+    if abs(prediction - true_label) == 2:
+        return -20
+    else:
+        return 0
+
+
+def calc_overall_rewards(actions, true_labels):
+    assert(len(actions) == true_labels.size)
+    overall_rewards = 0.
+    for i in range(len(actions)):
+        overall_rewards += compute_reward(actions[i], true_labels[i])
+    return overall_rewards
+
+
+def calc_bad_actions(actions, true_labels):
+    assert(len(actions) == true_labels.size)
+    num_bad_actions = 0
+    for i in range(len(actions)):
+        if abs(actions[i] - true_labels[i]) == 2:
+            num_bad_actions += 1
+    return num_bad_actions
+
+
+
+raw_data, num_labels = generate_data(save_txt=False, num_labels=3)
+aaa = (LinUCB(raw_data, num_labels, shuffle=True, alpha=0.))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string># lwd=1
+# cmap = plt.get_cmap('tab20')
+# colors = plt.cm.tab20(np.linspace(0, 1, 20))
+# 
+# plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+# plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+# plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+# plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+# plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+# plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+# 
+# plt.xticks(np.arange(0, 120, 20), ('0', '1000', '2000', '3000', '4000', '5000'))
+# plt.xlabel(&quot;Number of Patients&quot;)
+# plt.ylabel(&quot;Correctness&quot;)
+
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from generate_txt import generate_data
+
+num_trials = 3
+with_risk_sensitivity = False
+
+
+def LinUCB(data, num_labels, shuffle, alpha):
+    shuffled_data = data.sample(frac=1) if shuffle else data
+    true_label, features = shuffled_data.iloc[:, 0], shuffled_data.iloc[:, 1:]
+    features['augmentation'] = 1
+    num_points, num_feature = features.shape
+    A, b = {}, {}
+    actions = []
+    rewards = []
+    p = np.zeros(num_labels)
+    for label in range(num_labels):
+        A[label] = np.identity(num_feature)
+        b[label] = np.zeros(num_feature)
+    for index, patient in features.iterrows():
+        patient = patient.values
+        patient = patient / np.linalg.norm(patient)
+        for label in range(num_labels):
+            A_inv = np.linalg.inv(A[label])
+            theta = A_inv @ b[label]
+            p[label] = theta @ patient + alpha * np.sqrt(patient @ A_inv @ patient)
+            reward = compute_reward(label, true_label[index], with_risk_sensitivity)
+            A[label] += np.outer(patient, patient)
+            b[label] += reward * patient
+            rewards.append(reward)
+        prediction = np.random.choice(np.flatnonzero(p == p.max()))
+        actions.append(prediction)
+    print(&quot;LinUCB average return:&quot;, np.sum(actions == true_label.values) / num_points)
+    print(&quot;# of bad actions:&quot;, calc_bad_actions(actions, true_label.values))
+    return rewards
+
+
+def compute_reward(prediction, true_label, with_risk=False):
+    if with_risk:
+        return compute_reward_with_risk(prediction, true_label)
+    else:
+        return 0 if prediction == true_label else -1
+
+
+def compute_reward_with_risk(prediction, true_label):
+    if abs(prediction - true_label) == 1:
+        return -1
+    if abs(prediction - true_label) == 2:
+        return -20
+    else:
+        return 0
+
+
+def calc_overall_rewards(actions, true_labels):
+    assert(len(actions) == true_labels.size)
+    overall_rewards = 0.
+    for i in range(len(actions)):
+        overall_rewards += compute_reward(actions[i], true_labels[i])
+    return overall_rewards
+
+
+def calc_bad_actions(actions, true_labels):
+    assert(len(actions) == true_labels.size)
+    num_bad_actions = 0
+    for i in range(len(actions)):
+        if abs(actions[i] - true_labels[i]) == 2:
+            num_bad_actions += 1
+    return num_bad_actions</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lwd=1
+cmap = plt.get_cmap('tab20')
+colors = plt.cm.tab20(np.linspace(0, 1, 20))
+
+plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+
+plt.xticks(np.arange(0, 120, 20), ('0', '1000', '2000', '3000', '4000', '5000'))
+plt.xlabel(&quot;Number of Patients&quot;)
+plt.ylabel(&quot;Correctness&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lwd=1
+cmap = plt.get_cmap('tab20')
+colors = plt.cm.tab20(np.linspace(0, 1, 20))
+
+plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+
+plt.xticks(np.arange(0, 120, 20), ('0', '1000', '2000', '3000', '4000', '5000'))
+plt.xlabel(&quot;Number of Patients&quot;)
+plt.ylabel(&quot;Return&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lwd=1
+cmap = plt.get_cmap('tab20')
+colors = plt.cm.tab20(np.linspace(0, 1, 20))
+
+plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+
+plt.xticks(np.arange(0, 120, 20), ('0', '1000', '2000', '3000', '4000', '5000'))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lwd=1
+cmap = plt.get_cmap('tab20')
+colors = plt.cm.tab20(np.linspace(0, 1, 20))
+
+plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+
+plt.xticks(np.arange(0, 120, 20), ('Tom', 'Dick', 'Harry', 'Sally', 'Sue'))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lwd=1
+cmap = plt.get_cmap('tab20')
+colors = plt.cm.tab20(np.linspace(0, 1, 20))
+
+plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+
+plt.xticks(np.arange(0, 100, 20), ('Tom', 'Dick', 'Harry', 'Sally', 'Sue'))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lwd=1
+cmap = plt.get_cmap('tab20')
+colors = plt.cm.tab20(np.linspace(0, 1, 20))
+
+plt.plot(get_mean_reward(rewards_lin), label=&quot;LinUCB&quot;, linewidth=lwd, color=colors[4])
+plt.plot(get_mean_reward(rewards_ucb[6:]), label=&quot;Bootstrapped UCB (C.I.=80%)&quot;,linewidth=lwd,color=colors[0])
+plt.plot(get_mean_reward(rewards_egr[6:]), label=&quot;Epsilon-Greedy (p0=20%, decay=0.9999)&quot;,linewidth=lwd,color=colors[6])
+plt.plot(get_mean_reward(rewards_efr[6:]), label=&quot;Explore First (n=1,500)&quot;,linewidth=lwd,color=colors[14])
+plt.plot(get_mean_reward(rewards_aac[6:]), label=&quot;Adaptive Active Greedy&quot;, linewidth=lwd,color=colors[16])
+plt.plot(get_mean_reward(rewards_sft[6:]), label=&quot;Softmax Explorer&quot;, linewidth=lwd,color=colors[17])
+
+plt.xticks(np.arange(100), ('Tom', 'Dick', 'Harry', 'Sally', 'Sue'))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>true_dose.between(3.*7,7.*7).astype(int).sum()/true_dose.size</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>true_dose.size()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>true_dose.between(3.*7,7.*7).astype(int).sum()/true_dose.size()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>true_dose.between(3.*7,7.*7).astype(int).sum()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>true_dose.between(3.*7,7.*7).astype(int)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>astype(true_dose.between(3.*7,7.*7), int)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>true_dose.between(3.*7,7.*7)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>true_dose.between(3,7)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(true_dose &gt; 3.*7).item() and (true_dose &lt; 7.*7).item()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/baseline1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="1478" selection-start-line="1478" selection-end-line="1478" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="3590" selection-start-line="3590" selection-end-line="3590" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/warfarin.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-83775" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="125" selection-start-line="16" selection-start-column="125" selection-end-line="16" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contextual_bandits (Sheng Ji 的冲突副本 2019-03-18).py" />
+    <entry file="file://$PROJECT_DIR$/warfarin_cleaned.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="87" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/processed.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linUCB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linUCB (Sheng Ji 的冲突副本 2019-03-19).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contextual_bandits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="151" column="21" lean-forward="true" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
